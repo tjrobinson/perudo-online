@@ -10,8 +10,8 @@ export default {
 };
 </script>
 
-<template>Player Count: {{ store.playerCount }}</template>
-
 <template>
+  <p>Player Count: {{ store.playerCount }}</p>
+
   <p>Test successful</p>
 </template>
